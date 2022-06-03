@@ -2,7 +2,7 @@
 ## About me
 1. Myself Saksham Kohli. I live in Ludhiana. I did my schooling from BVM school Udham Singh Nagar Ludhiana. I scored **94%** in 10th standard and **92.2%** in 12th standard. I scored **90.3 percentile** in JEE Mains exam.
 1. I am good in playing chess (see the image below to see proof 😅).
-     <img src="https://user-images.githubusercontent.com/98526440/171870733-464a394a-6e0a-4c7a-b776-4cbfd56b37c8.jpg" width="800" height="500">
+     <img src="https://user-images.githubusercontent.com/98526440/171870733-464a394a-6e0a-4c7a-b776-4cbfd56b37c8.jpg" width="500" height="500">
 
 
 
