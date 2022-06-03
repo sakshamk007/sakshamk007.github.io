@@ -8,6 +8,6 @@
 3. I can solve 3x3 Rubik's cube and 3x3 Mirror cube.
 4. I am an astrophile. Currently reading a book **Wonders of the solar system and the universe** *by professor **Brian cox** and **Andrew Cohen***
 
-![IMG_20220603_193330 (3)](https://user-images.githubusercontent.com/98526440/171915061-d6725f28-8dc9-4e8e-9b9a-aa13c489c108.jpg)
+![IMG_20220603_193330 (4)](https://user-images.githubusercontent.com/98526440/171915413-445b7bba-7ad8-44b7-b2df-613970eb4c9a.jpg)
 
 5. I am familiar with programming languages like **Python**, **SQL**, **HTML**, **C**, **Scratch**
