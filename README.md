@@ -5,5 +5,5 @@
 ![Screenshot_20220104_080349 (1)](https://user-images.githubusercontent.com/98526440/171912458-ddbb9e03-3048-40b8-84dc-86989807989b.jpg)
 3. I can solve 3x3 Rubik's cube and 3x3 Mirror cube.
 4. I am an astrophile. Currently reading a book **Wonders of the solar system and the universe** *by professor **Brian cox** and **Andrew Cohen***
-![IMG_20220603_193330 (1)](https://user-images.githubusercontent.com/98526440/171914061-7edb776f-0f46-4428-9738-c38c02728653.jpg)
+![IMG_20220603_193330 (2)](https://user-images.githubusercontent.com/98526440/171914261-d871b9ca-7ff8-4dcc-b873-73e99df145bf.jpg)
 5. I am familiar with programming languages like **Python**, **SQL**, **HTML**, **C**, **Scratch**
